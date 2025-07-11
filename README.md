@@ -96,7 +96,8 @@ This Instacart analytics dashboard effectively combines MySQL-driven data proces
 ## 👩‍💼 Author
 
 **Ashmita Chatterjee**
-MSc Economics, Symbiosis School of Economics
+MSc Economics | Symbiosis School of Economics
+
 Kolkata → Pune
 
 ---
