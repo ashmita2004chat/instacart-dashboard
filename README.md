@@ -61,6 +61,17 @@ It includes data on:
 | Table              | User Activity Summary (Orders, Items, Avg. Items/Order, Reorder Rate) |
 
 ---
+## 📊 Power BI Dashboard
+
+Due to file size limitations, the Power BI dashboard (`.pbix` file) is hosted externally.
+
+👉 [Click here to download the Instacart Dashboard (.pbix)](https://drive.google.com/drive/folders/1B9Xe930Yi3LYZCJy2QPO4tO1Y22pX7Mo?usp=sharing)
+
+> Make sure you are signed into Google and have access to download the file.
+
+### 🖼️ Dashboard Screenshot
+
+![Dashboard Preview](dashboard_preview.png)
 
 ## 📒 Page-wise Layout
 
