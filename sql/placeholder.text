@@ -1,1 +1,11 @@
+This folder contains the SQL schema used to recreate the Instacart dataset in MySQL.
 
+The file `instacart_mysql_schema.sql` includes:
+- Table creation statements for all datasets (aisles, departments, products, orders, etc.)
+- Data type definitions matching the Kaggle CSV structure
+- Optional: Foreign key relationships and indexes for optimized querying
+
+Note:
+Due to Kaggle's licensing and file size restrictions, raw CSVs are not included in this repository.
+To recreate the database, download the dataset from:
+https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis
