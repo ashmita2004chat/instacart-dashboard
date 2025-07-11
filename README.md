@@ -6,7 +6,7 @@ This project delivers an end-to-end data analysis and dashboard solution using t
 
 ## 📂 Dataset Source
 
-The dataset was sourced from **[Kaggle - Instacart Market Basket Analysis](https://www.kaggle.com/c/instacart-market-basket-analysis/data)**.
+The dataset was sourced from **[Kaggle - Instacart Market Basket Analysis](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis)**.
 It includes data on:
 
 * 3 million+ grocery orders
